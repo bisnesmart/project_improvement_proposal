@@ -23,7 +23,6 @@
     "author": "bisnesmart",
     "category": "Generic Modules/Projects & Services",
     "website": "http://www.bisnesmart.com",
-    "license": 'AGPL-3',
     "depends": [
         "project",
     ],
