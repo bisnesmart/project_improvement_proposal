@@ -26,7 +26,6 @@
     "license": 'AGPL-3',
     "depends": [
         "project",
-        "merp_digital_signature_bisnesmart",
     ],
     "data": [
         "report/report_improvement_proposal.xml",
